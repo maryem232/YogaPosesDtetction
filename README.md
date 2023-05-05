@@ -1,1 +1,1 @@
-# YogaPosesDtetction
+🧘‍♀️🧘‍♂️🔍 In this project, we explored the use of convolutional neural networks (CNN) for the detection and classification of yoga poses in images. We trained our models on a dataset of labeled yoga pose images using CNNs, which are a popular choice for image classification tasks.
